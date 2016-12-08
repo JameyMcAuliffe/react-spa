@@ -2,7 +2,7 @@
   "name": "react-spa",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "dependencies": {
     "babel-core": "^6.17.0",
     "babel-loader": "^6.2.0",
